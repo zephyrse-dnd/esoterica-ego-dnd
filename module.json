@@ -1,7 +1,7 @@
 {
   "id": "eso-ego",
   "title": "Esoterica EGO",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -18,7 +18,7 @@
   },
 "packFolders": [
   {
-    "name": "Extermination of Geometrical Organ",
+    "name": "Ext. of Geometrical Organ",
     "sorting": "m",
     "color": "#3b2524",
     "packs": [
