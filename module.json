@@ -55,6 +55,7 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/zephyrse-dnd/esoterica-ego-dnd",
   "manifest": "https://github.com/zephyrse-dnd/esoterica-ego-dnd/releases/download/Latest/module.json",
   "download": "https://github.com/zephyrse-dnd/esoterica-ego-dnd/releases/download/v0.2.1/module.zip"
 }
