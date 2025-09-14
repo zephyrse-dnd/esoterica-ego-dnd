@@ -1,0 +1,60 @@
+{
+  "id": "eso-ego",
+  "title": "Esoterica EGO",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Module for Dan's ESO things</p>",
+  "authors": [
+    {
+      "name": "zephyrse",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+"packFolders": [
+  {
+    "name": "Extermination of Geometrical Organ",
+    "sorting": "m",
+    "color": "#3b2524",
+    "packs": [
+      "custom-ego-spells",
+      "custom-ego-items"
+    ]
+  }
+],
+  "packs": [
+    {
+      "name": "custom-ego-spells",
+      "label": "Custom EGO Spells",
+      "path": "packs/custom-ego-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "banner": "modules/eso-ego/assets/banner/spell-banner.webp",
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "custom-ego-items",
+      "label": "Custom EGO Items",
+      "path": "packs/custom-ego-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "banner": "modules/eso-ego/assets/banner/item-banner.webp",
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://drive.google.com/file/d/1Vi87YPsdm-nUfjGExZqQyTpsNF2khBYn/view?usp=drive_link",
+  "download": "https://drive.google.com/file/d/1glngXzimOouL6oODUyDIKTq6J3vTZbS1/view?usp=drive_link"
+}
