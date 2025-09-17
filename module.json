@@ -1,7 +1,7 @@
 {
   "id": "eso-ego",
   "title": "Esoterica EGO",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
